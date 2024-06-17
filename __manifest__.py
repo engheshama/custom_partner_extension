@@ -3,7 +3,7 @@
     'version': '15.0.1.3.0',
     'author': 'Hesham ',
     'license': 'LGPL-3',
-    'price': 49.99,
+    'price': 0.0,
     'currency': 'EUR',
     'depends': ['base', 'account'],
     'data': [
